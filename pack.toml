@@ -1,0 +1,13 @@
+name = "Create Server"
+author = "OwO"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9b70ae2f1585e8c6672727cfe4d263dc5e5fc23f735a9988bd47d6f943b6b70f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.11.42"
